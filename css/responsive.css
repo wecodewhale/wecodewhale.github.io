@@ -335,12 +335,6 @@
 	.header-extras { display: none; }
 
 	#logo {
-		display: none;
-	}
-
-	#logo a.standard-logo { display: none; }
-
-	#logo-mobile {
 		display: block;
 		height: 70px;
 		float: none;
@@ -351,7 +345,7 @@
 		padding: 0 !important;
 	}
 
-	#logo-mobile a.standard-logo { display: inline-block; }
+	#logo a.standard-logo { display: inline-block; }
 	
 	#primary-menu {
 		display: block;
