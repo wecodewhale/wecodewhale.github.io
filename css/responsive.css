@@ -335,18 +335,24 @@
 	.header-extras { display: none; }
 
 	#logo {
+		display: none;
+	}
+
+	#logo a.standard-logo { display: none; }
+
+	#logo-mobile {
 		display: block;
-		height: 100px;
+		height: 70px;
 		float: none;
-		margin: 0 auto 0 !important;
+		margin: 5px auto 0 !important;
 		max-width: none;
 		text-align: center;
 		border: 0 !important;
 		padding: 0 !important;
 	}
 
-	#logo a.standard-logo { display: inline-block; }
-
+	#logo-mobile a.standard-logo { display: inline-block; }
+	
 	#primary-menu {
 		display: block;
 		float: none;
