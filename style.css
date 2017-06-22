@@ -1018,7 +1018,7 @@ body.stretched #header.full-header .container {
 #header.transparent-header.full-header #logo { border-right-color: rgba(0,0,0,0.1); }
 
 #logo a {
-	display: block;
+	display: none;
 	color: #000;
 }
 
